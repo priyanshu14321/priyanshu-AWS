@@ -11,7 +11,7 @@ on:
         type: string
 env:
   AWS_REGION: ap-south-1
-  S3_BUCKET: "tejas-idsk229"
+  S3_BUCKET: "priyanshu-shahi-s3"
 
 permissions:
   contents: read
